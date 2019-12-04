@@ -1,0 +1,14 @@
+{
+  "name": "windows-slack",
+  "version": "1.0.0",
+  "description": "my new app",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Cioc",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.1"
+  }
+}
